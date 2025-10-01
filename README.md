@@ -30,8 +30,8 @@
 
 ## 📫 Connect with Me
 - GitHub: [github.com/akash-deore](https://github.com/akash-deore)  
-- LinkedIn: [linkedin.com/in/aakashdeore]  
-- Email: aakash.deore@gmail.com  
+- LinkedIn: [linkedin.com/in/aakashdeore](https://www.linkedin.com/in/aakashdeore)  
+- Email: [aakash.deore@gmail.com](mailto:aakash.deore@gmail.com)  
 
 ---
 
